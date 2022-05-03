@@ -81,8 +81,74 @@ WGI
 
 [@hensonKeyTakeawaysNew2021]
 
-Extremereignisse werden zunehmen (siehe Figure SPM6). Zunehmen werden auch die *compound events*, die sich bei 2° dramatisch steigern würden. 
+Extremereignisse werden zunehmen (siehe Figure SPM6). 
+
+Sie werden häufiger, und sie werden auch intensiver. 
+
+![](pics/spm6-hot-temperatures.png)
+
+![](pics/spm6-precipitations-and-draughts.png)
+
+
+
+
+
+
+
+Zunehmen werden auch die *compound events*, die sich bei 2° dramatisch steigern würden. 
+
+
+
+
 
 Welche kumulativen Emissionen entsprechen 0,1° (siehe p. 36)
 
+
+
+—
+
+
+> Considering all five illustrative scenarios assessed by WGI, there is at least a greater than 50% likelihood that global warming will reach or exceed 1.5°C in the near‐term, even for the very low greenhouse gas emissions scenario2. [@ipccSummaryPolicyMakers2022, p.7]
+
+> Risks are projected for the near-term (2021-2040), the mid (2041-2060) and long term (2081-2100), at different global warming levels and for pathways that overshoot 1.5°C global warming level for multiple decades27. [@ipccSummaryPolicyMakers2022, p.7]
+
+> SPM.B.3 Global warming, reaching 1.5°C in the near-term, would cause unavoidable increases in multiple climate hazards and present multiple risks to ecosystems and humans (very high confidence). The level of risk will depend on concurrent near-term trends in vulnerability, exposure, level of socioeconomic development and adaptation (high confidence). Near-term actions that limit global warming to close to 1.5°C would substantially reduce projected losses and damages related to climate change in human systems and ecosystems, compared to higher warming levels, but cannot eliminate them all (very high confidence). [@ipccSummaryPolicyMakers2022, p.13]
+
+Die Risiken bestehen für einzigartige und bedrohte Systeme. Sehr hoch ist außerdem das Risiko durch Extremwetter-Ereignisse. Von einem sehr hohen Risiko spricht der IPCC auch für alle Gegenden der Welt, die der Erhitzung besonders ausgesetzt sind und ihr nur wenig angepasst sind. Dabei beziehen sich diese Angaben auf einen Median-Wert von 1,5 Grad. Die Risiken schon bei 1,5° werden im AR6 als wesentlich höher eingeschätzt als noch im AR5 (zwischen beiden liegt der Special Report zu 1,5°).
+
+> SPM.B.3.3 Levels of risk for all Reasons for Concern (RFC) are assessed to become high to very high at lower global warming levels than in AR5 (high confidence). Between 1.2°C and 4.5°C global warming level very high risks emerge in all five RFCs compared to just two RFCs in AR5 (high confidence). Two of these transitions from high to very high risk are associated with near-term warming: risks to unique and threatened systems at a median value of 1.5°C [1.2 to 2.0] °C (high confidence) and risks associated with extreme weather events at a median value of 2°C [1.8 to 2.5] °C (medium confidence). Some key risks contributing to the RFCs are projected to lead to widespread, pervasive, and potentially irreversible impacts at global warming levels of 1.5–2°C if exposure and vulnerability are high and adaptation is low (medium confidence). Near-term actions that limit global warming to close to 1.5°C would substantially reduce projected losses and damages related to climate change in human systems and ecosystems, compared to higher warming levels, but cannot eliminate them all (very high confidence).  [@ipccSummaryPolicyMakers2022, p.13]
+
+Die Risiken für die Biodiversität sind schon bei 1,5° hoch und steigen rasch weiter an, wenn diese Temperatur überschritten wird.
+
+> Biodiversity loss, and degradation, damages to and transformation of ecosystems are already key risks for every region due to past global warming and will continue to escalate with every increment of global warming (very high confidence). In terrestrial ecosystems, 3 to 14% of species assessed33 will likely face very high risk of extinction34 at global warming levels of 1.5°C, increasing up to 3 to 18% at 2°C, 3 to 29% at 3°C, 3 to 39% at 4°C, and 3 to 48% at 5°C. In ocean and coastal ecosystems, risk of biodiversity loss ranges between moderate and very high by 1.5°C global warming level and is moderate to very high by 2°C but with more ecosystems at high and very high risk (high confidence), and increases to high to very high across most ocean and coastal ecosystems by 3°C (medium to high confidence, depending on ecosystem). Very high extinction risk for endemic species in biodiversity hotspots is projected to at least double from 2% between 1.5°C and 2°C global warming levels and to increase at least tenfold if warming rises from 1.5°C to 3°C (medium confidence).  [@ipccSummaryPolicyMakers2022, p.14]
+
+Direkte Fluschäden könnten sich verdoppeln, wenn Erhitzung 2° beträgt. 
+
+> Projected increases in direct flood damages are higher by 1.4 to 2 times at 2°C and 2.5 to 3.9 times at 3°C compared to 1.5°C global warming without adaptation (medium confidence).  [@ipccSummaryPolicyMakers2022, p.14]
+
+Die Risiken für die Lebensmittelversorgung steigern sich von maßvoll zu *hoch*, wenn sich die Erhitzung bis zu 2° fortsetzt:
+
+> Increases in frequency, intensity and severity of droughts, floods and heatwaves, and continued sea level rise will increase risks to food security (high confidence) in vulnerable regions from moderate to high between 1.5°C and 2°C global warming level, with no or low levels of adaptation (medium confidence). At 2°C or higher global warming level in the mid-term, food security risks due to climate change will be more severe, leading to malnutrition and micro-nutrient deficiencies, concentrated in Sub-Saharan Africa, South Asia, Central and South America and Small Islands (high confidence). [@ipccSummaryPolicyMakers2022, p.14]
+
+
+> Above 1.5°C global warming increasing concurrent climate extremes will increase risk of simultaneous crop losses of maize in major food-producing regions, with this risk increasing further with higher global warming levels (medium confidence). [@ipccSummaryPolicyMakers2022, p.19]
+
+1,5° nur zeitweise zu überschreiten führt einerseits zu irreversiblen Schäden und andererseits dazu, dass weitere Treibhausgase freigesetzt werden können.
+
+> SPM.B.6 If global warming transiently exceeds 1.5°C in the coming decades or later (overshoot)37, then many human and natural systems will face additional severe risks, compared to remaining below 1.5°C (high confidence). Depending on the magnitude and duration of overshoot, some impacts will cause release of additional greenhouse gases (medium confidence) and some will be irreversible, even if global warming is reduced (high confidence).  [@ipccSummaryPolicyMakers2022, p.20]
+
+Im IPCC-Bericht wird betont, dass es schwierig ist, die Folgen einer Überschreitung dieser Grenze zu modellieren, dass man aber zuverlässige Aussagen über irreversible Folgen treffen kann.  [@ipccSummaryPolicyMakers2022, p.20]
+
+Abbildung 4 der Summary for Policy Makers des zweiten Teils ist eine komplexe Zusammenstellung von Informationen über mögliche Anpassungsmaßnahmen an Temperatursteigerungen bis zur 1,5°-Grenze. Dabei wird einerseits bewertet, wie gut sie umsetzbar sind und ob sie auch zum Klimaschutz beitragen. Andererseits wird eingeschätzt, ob und wieviele Synergien zu den Nachhaltigen Entwicklunszielen der Vereinten Nationen bestehen. 
+
+![](pics/spm-II-fig-4-a.png)
+
+![](pics/spm-II-fig-4-b.png) 
+
+Erhaltungs und Schutzmaßnahmen müssen sich an die Veränderungen durch die Erhitzung anpassen, insbesondere, wenn man dern1,5° nahekommt  [@ipccSummaryPolicyMakers2022, p.24].
+
+> To be effective, conservation and restoration actions will increasingly need to be responsive, as appropriate, to ongoing changes at various scales, and plan for future changes in ecosystem structure, community composition and species’ distributions, especially as 1.5°C global warming is approached and even more so if it is exceeded (high confidence).
+
 ## Bedeutung von 1,5° für Österreich und Graz 
+
+Es gibt einerseits folgen und Risiken aufgrund der besonderen Gegebenheiten in Graz bzw. Österreich und andererseits als Folgen von globalen Risiken und Risiken an anderen Stellen des Planeten. Abhängigkeiten vergößern dabei Risiken oft. 
