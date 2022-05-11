@@ -11,11 +11,18 @@
 
 ## 
 
+* Online-Version: <https://heinzwittenbrink.github.io/1komma5gradundgraz/#/ist-15-tot>
+* Dokument mit Notizen und Zitaten: <https://github.com/heinzwittenbrink/1komma5gradundgraz/blob/main/slides-1komma5-graz.md>
+
+## 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YvlChfFt1nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [@worldmeteorologicalorganization-wmoGlobalAnnualDecadal2022] 
 
 ## 
+
+Gerhard Wotawa im Tauwetter-Podcast;
 
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://profil.podigee.io/848-wien-darf-nicht-izmir-werden-wie-sich-das-subtropische-klima-immer-weiter-ausbreitet/embed?context=external"></script>
 
@@ -30,7 +37,11 @@
 ::: notes
 
 Das 1,5° Ziel ist im Pariser Abkommen festgelegt, wenn auch in einer nicht ganz eindeutigen Weise. Nach dem Pariser Abkommen hat der IPCC in einem Sonderbericht dargestellt, warum dieses Ziel so relevant ist. Die wissenschaftlichen Erkenntnisse zum Klimawandel, wie es dort immer heisst, haben ergeben, dass deutlich dramatischere Folgen schon ab 1,5° zu erwarten sind, als vorher angenommen. 
-Andererseits waren das Pariser Abkommen und die darauf folgenden Konferenzen zwar nicht ganz folgenlos, aber die Selbstverpflichtungen der Staaten sind weit hinter dem zurückgeblieben, was zu Erreichen des 1,5°-Ziels erforderlich wäre. Man erkannte also einerseits immer deutlicher, dass eine Überschreitung von 1,5° katastrophal ist und andererseits, dass die 1,5° ein politisch unrealistisches Ziel sind. Deshalb wird über das 1,5°-Ziel debattiert, und zwar von zwei Seiten: Einerseits wird es unrealistisch erklärt, um Klimaschutz zu unterlaufen, und andererseits wird es für unrealistisch erklärt, um deutlich zu machen, dass die Klimaschutzpolitik der Vereinten Nationen und der meisten Staaten völlig unzureichend ist. Die Klimagerechtigkeitsbewegung muss also einerseits an diesem Ziel festhalten, um die Fossilindustrie nicht zu rechtfertigen, und andererseits seinen illusionären Charakter entlarven, um das Greenwashing der Mächtigen nicht zu unterstützen. Das führt dazu, dass eine ohnehin schon schwierige Argumentationssituation weiter verkompliziert wird. 
+
+Andererseits waren das Pariser Abkommen und die darauf folgenden Konferenzen zwar nicht ganz folgenlos, aber die Selbstverpflichtungen der Staaten sind weit hinter dem zurückgeblieben, was zu Erreichen des 1,5°-Ziels erforderlich wäre. Man erkannte also einerseits immer deutlicher, dass eine Überschreitung von 1,5° katastrophal ist und andererseits, dass die 1,5° ein politisch unrealistisches Ziel sind. Deshalb wird über das 1,5°-Ziel debattiert, und zwar von zwei Seiten: Einerseits wird es unrealistisch erklärt, um Klimaschutz zu unterlaufen, und andererseits wird es für unrealistisch erklärt, um deutlich zu machen, dass die Klimaschutzpolitik der Vereinten Nationen und der meisten Staaten völlig unzureichend ist. 
+
+Die Klimagerechtigkeitsbewegung muss also einerseits an diesem Ziel festhalten, um die Fossilindustrie nicht zu rechtfertigen, und andererseits seinen illusionären Charakter entlarven, um das Greenwashing der Mächtigen nicht zu unterstützen. Das führt dazu, dass eine ohnehin schon schwierige Argumentationssituation weiter verkompliziert wird. 
+
 Hinzu kommen noch drei Eigenschaften der 1,5°-Grenze:
 1. Sie ist einerseits ein Endziel, bzw. ein für 2100 und danach formuliertes Ziel und andererseits eine Grenze, die weit davor schon überschritten wird. Man kann also dafür sein oder es für realistisch halten, dass ab 2100 die globalen Durchschnittstemperaturen nicht über 1,5° liegen, aber akzeptieren oder für realistisch halten, dass dies Grenze vorher durchbrochen wird.
 2. Als physikalische Größe bilden die 1,5° immer einen Mittelwert. Wenn davon gesprochen wird, ob sie durch bestimmte Maßnahmen oder Entwicklungen eingehalten oder überschritten werden, dann ist immer von Wahrscheinlichkeiten die Rede. 
@@ -65,6 +76,11 @@ Wir haben an Land dieses Ziel bereits überschritten:
 
 
 Original: https://commons.wikimedia.org/wiki/File:IPCC_AR6_WGI_SPM_obr1.svg
+
+
+Man muss 6500, aber eher 125.000 Jahre zurückgehen, um in der Erdgeschichte die aktuellen Temperaturen wiederzufinden.
+
+> Global surface temperature has increased faster since 1970 than in any other 50-year period over at least the last 2000 years (high confidence). Temperatures during the most recent decade (2011–2020) exceed those of the most recent multi-century warm period, around 6500 years ago13 [0.2°C to 1°C relative to 18501900] (medium confidence). Prior to that, the next most recent warm period was about 125,000 years ago when the multi-century temperature [0.5°C to 1.5°C relative to 1850–1900] overlaps the observations of the most recent decade (medium confidence). [@ipccSummaryPolicymakers2021, p.9]
 
 :::
 
@@ -106,17 +122,13 @@ Wie die Tabelle oben auf S.18 zeigt, werden wir mit großer Wahrscheinlichkeit d
 
 Unterschiedliche Faktoren sind für den Strahlungsantrieb verantwortlich, vor allem CO2:
 
-
-Man muss 6500, aber eher 125.000 Jahre zurückgehen, um in der Erdgeschichte die aktuellen Temperaturen wiederzufinden.
-
-> Global surface temperature has increased faster since 1970 than in any other 50-year period over at least the last 2000 years (high confidence). Temperatures during the most recent decade (2011–2020) exceed those of the most recent multi-century warm period, around 6500 years ago13 [0.2°C to 1°C relative to 18501900] (medium confidence). Prior to that, the next most recent warm period was about 125,000 years ago when the multi-century temperature [0.5°C to 1.5°C relative to 1850–1900] overlaps the observations of the most recent decade (medium confidence). [@ipccSummaryPolicymakers2021, p.9]
-
 :::
 
 
 
 
-## Nie dagewesene Extremereignisse
+
+## Die Erhitzung ist ungleich verteilt
 
 ![](pics/spm-I-fig-5-b.png)   
 
@@ -182,7 +194,9 @@ Zunehmen werden auch die *compound events*, die sich bei 2° dramatisch steigern
 :::
 
 
+## Interaktiver Atlas
 
+<https://interactive-atlas.ipcc.ch/regional-information>
 
 ## Die kumulierten Emissionen entscheiden
 
@@ -243,7 +257,6 @@ Abbildung 4 der Summary for Policy Makers des zweiten Teils ist eine komplexe Zu
 Erhaltungs und Schutzmaßnahmen müssen sich an die Veränderungen durch die Erhitzung anpassen, insbesondere, wenn man dern1,5° nahekommt  [@ipccSummaryPolicyMakers2022, p.24].
 
 > To be effective, conservation and restoration actions will increasingly need to be responsive, as appropriate, to ongoing changes at various scales, and plan for future changes in ecosystem structure, community composition and species’ distributions, especially as 1.5°C global warming is approached and even more so if it is exceeded (high confidence).
-
 
 > Adaptations for hydropower and thermo-electric power generation are effective in most regions up to 1.5°C to 2°C, with decreasing effectiveness at higher levels of warming (medium confidence). Climate responsive energy markets, updated design standards on energy assets according to current and projected climate change, smart-grid technologies, robust transmission systems and improved capacity to respond to supply deficits have high feasibility in the medium- to long-term, with mitigation co-benefits (very high confidence).  [@ipccSummaryPolicyMakers2022, p.26].
 
@@ -364,6 +377,10 @@ Eine entscheidende Aussage ist in einer Fussnote verborgen.
  
  :::
 
+## 
+
+* Die aktuellen NDCs sind mit 1,5° nicht vereinbar.
+* Die Wahrscheinlichkeit, 1,5% nicht zu überschreiten, liegt bei maximal 67%
 
 ## 1,5° sind nicht "baked into the system"
 
@@ -375,8 +392,27 @@ Eine entscheidende Aussage ist in einer Fussnote verborgen.
 
     [@mckayFactCheckMoreGlobal2020]
    
+::: notes
+
+Wenn Net zero erreicht wird (ohne selbstlaufende Erwärmungen auszulösen), dann hört die Erwärmung auch tatsächlich auf. Für das 1,5°-Ziel muss das global (nicht nur bei uns) 2050 erreicht sein.
+
+> C.2 Global net zero CO2 emissions are reached in the early 2050s in modelled pathways that limit warming to 1.5°C (>50%) with no or limited overshoot, and around the early 2070s in modelled pathways that limit warming to 2°C (>67%). Many of these pathways continue to net negative CO2 emissions after the point of net zero. These pathways also include deep reductions in other GHG emissions. The level of peak warming depends on cumulative CO2 emissions until the time of net zero CO2 and the change in non-CO2 climate forcers by the time of peaking. Deep GHG emissions reductions by 2030 and 2040, particularly reductions of methane emissions, lower peak warming, reduce the likelihood of overshooting warming limits and lead to less reliance on net negative CO2 emissions that reverse warming in the latter half of the century. Reaching and sustaining global net zero GHG emissions results in a gradual decline in warming. (high confidenc  [@ipccSummaryPolicymakers2022, p.30-31]
+
+> Modelled global pathways limiting warming to 1.5°C (>50%) with no or limited overshoot are associated with projected cumulative net CO2 emissions [FOOTNOTE 51] until the time of net zero CO2 of 510 [330–710] GtCO2. [@ipccSummaryPolicymakers2022, p.31]
 
 
+
+> C.3 All global modelled pathways that limit warming to 1.5°C (>50%) with no or limited overshoot, and those that limit warming to 2°C (>67%) involve rapid and deep and in most cases immediate GHG emission reductions in all sectors. Modelled mitigation strategies to achieve these reductions include transitioning from fossil fuels without CCS to very low- or zero-carbon energy sources, such as renewables or fossil fuels with CCS, demand side measures and improving efficiency, reducing non-CO2 emissions, and deploying carbon dioxide removal (CDR) methods to counterbalance residual GHG emissions. Illustrative Mitigation Pathways (IMPs) show different combinations of sectoral mitigation strategies consistent with a given warming level. (high confidence) (Figure SPM.5) {3.2, 3.3, 3.4, 6.4, 6.6} [@ipccSummaryPolicymakers2022, p.32]
+
+
+:::
+
+
+## Risiko Tipping Points
+
+![](https://climatetippingpoints.files.wordpress.com/2021/08/image-4.png?w=1024) 
+
+<https://climatetippingpoints.info/2021/10/31/ipcc-ar6-climate-tipping-points-feedbacks/>
 
 ## Deep reductions
 
@@ -419,15 +455,7 @@ Die Kategorien der Szenarios in Teil 3 werden in Bezug auf das 1,5°-Ziel defini
 
 > Category C1 comprises modelled scenarios that limit warming to 1.5°C in 2100 with a likelihood of greater than 50%, and reach or exceed warming of 1.5°C during the 21st century with a likelihood of 67% or less. In this report, these scenarios are referred to as scenarios that limit warming to 1.5°C (>50%) with no or limited overshoot. Limited overshoot refers to exceeding 1.5°C global warming by up to about 0.1°C and for up to several decades. [FOOTNOTE 49] [@ipccSummaryPolicymakers2022, p.27]
 
-Wenn Net zero erreicht wird (ohne selbstlaufende Erwärmungen auszulösen), dann hört die Erwärmung auch tatsächlich auf. Für das 1,5°-Ziel muss das global (nicht nur bei uns) 2050 erreicht sein.
 
-> C.2 Global net zero CO2 emissions are reached in the early 2050s in modelled pathways that limit warming to 1.5°C (>50%) with no or limited overshoot, and around the early 2070s in modelled pathways that limit warming to 2°C (>67%). Many of these pathways continue to net negative CO2 emissions after the point of net zero. These pathways also include deep reductions in other GHG emissions. The level of peak warming depends on cumulative CO2 emissions until the time of net zero CO2 and the change in non-CO2 climate forcers by the time of peaking. Deep GHG emissions reductions by 2030 and 2040, particularly reductions of methane emissions, lower peak warming, reduce the likelihood of overshooting warming limits and lead to less reliance on net negative CO2 emissions that reverse warming in the latter half of the century. Reaching and sustaining global net zero GHG emissions results in a gradual decline in warming. (high confidenc  [@ipccSummaryPolicymakers2022, p.30-31]
-
-> Modelled global pathways limiting warming to 1.5°C (>50%) with no or limited overshoot are associated with projected cumulative net CO2 emissions [FOOTNOTE 51] until the time of net zero CO2 of 510 [330–710] GtCO2. [@ipccSummaryPolicymakers2022, p.31]
-
-
-
-> C.3 All global modelled pathways that limit warming to 1.5°C (>50%) with no or limited overshoot, and those that limit warming to 2°C (>67%) involve rapid and deep and in most cases immediate GHG emission reductions in all sectors. Modelled mitigation strategies to achieve these reductions include transitioning from fossil fuels without CCS to very low- or zero-carbon energy sources, such as renewables or fossil fuels with CCS, demand side measures and improving efficiency, reducing non-CO2 emissions, and deploying carbon dioxide removal (CDR) methods to counterbalance residual GHG emissions. Illustrative Mitigation Pathways (IMPs) show different combinations of sectoral mitigation strategies consistent with a given warming level. (high confidence) (Figure SPM.5) {3.2, 3.3, 3.4, 6.4, 6.6} [@ipccSummaryPolicymakers2022, p.32]
 
 > C.3.5 Methods and levels of CDR deployment in global modelled mitigation pathways vary depending on assumptions about costs, availability and constraints. [FOOTNOTE 54] In modelled pathways that report CDR and that limit warming to 1.5°C (>50%) with no or limited overshoot, global cumulative CDR during 2020-2100 from Bioenergy with Carbon Dioxide Capture and Storage (BECCS) and Direct Air Carbon Dioxide Capture and Storage (DACCS) is 30-780 GtCO2 and 0-310 GtCO2, respectively. In these modelled pathways, the AFOLU sector contributes 20-400 GtCO2 net negative emissions.  [@ipccSummaryPolicymakers2022, p.33]
 
@@ -442,12 +470,10 @@ CCS
 :::
 
 
-## Viele Klimaschutzmaßnahmen sind Einsparungen
+## Klimaschutzmaßnahmen durch Einsparungen
 
 
-Darstellung der möglichen Klimaschutz-Maßnahmen:
-
-![](pics/spm-III-fig-7.png)
+![](pics/spm-III-fig-7.png){with=60%}
 
 
 ## Veränderungen der Nachfrage
